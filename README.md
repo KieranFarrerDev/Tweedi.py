@@ -14,7 +14,7 @@
  tweets = api.search (q="#NHS"+" -filter:retweets",count=100,lang="en")
 ```
 
-To save produced MIDI File: un-comment lines 270-272.
+(Optional) To save produced MIDI File: un-comment lines 270-272.
 
 ### Lines 270-272: 
 ```
