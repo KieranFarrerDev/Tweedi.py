@@ -1,5 +1,5 @@
 # Tweedi.py
-#### Scrapes data for a given hashtag and outputs a dynamically Created piece of music from the collected data.
+#### Scrapes data for a given hashtag and outputs a dynamically created piece of music from the collected data.
 
 ## How to run the script
 • Download both "tweedi.py" & "twitter_credentials" scripts.
